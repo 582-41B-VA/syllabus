@@ -67,11 +67,11 @@ GitHub.
 |   6 | 13 FE | Models                | Homework              |
 |   7 | 14 FE | Views                 | Homework              |
 |   8 | 15 FE | Testing               | Homework              |
-|   9 | 19 FE | Admin                 | Project: Poll 1 (10%) |
+|   9 | 19 FE | Admin                 | Project: News 1 (10%) |
 |  10 | 20 FE | Authentification      | Homework              |
 |  11 | 21 FE | Internationalization  | Homework              |
 |  12 | 22 FE | Libraries             | Homework              |
-|  13 | 26 FE | Deployment            | Project: Poll 2 (10%) |
+|  13 | 26 FE | Deployment            | Project: News 2 (10%) |
 |  14 | 27 FE | Lab                   |                       |
 |  15 | 28 FE | Lab                   |                       |
 |  16 | 29 FE | Lab                   | LIA (40%)             |
